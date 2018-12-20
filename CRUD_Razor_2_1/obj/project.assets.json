@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimy6\\Documents\\Development\\CRUD_Razor_2_1\\CRUD_Razor_2_1\\CRUD_Razor_2_1.csproj",
+      "projectUniqueName": "C:\\Users\\kimy6\\source\\repos\\CRUD_Razor_2_1\\CRUD_Razor_2_1\\CRUD_Razor_2_1.csproj",
       "projectName": "CRUD_Razor_2_1",
-      "projectPath": "C:\\Users\\kimy6\\Documents\\Development\\CRUD_Razor_2_1\\CRUD_Razor_2_1\\CRUD_Razor_2_1.csproj",
+      "projectPath": "C:\\Users\\kimy6\\source\\repos\\CRUD_Razor_2_1\\CRUD_Razor_2_1\\CRUD_Razor_2_1.csproj",
       "packagesPath": "C:\\Users\\kimy6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimy6\\Documents\\Development\\CRUD_Razor_2_1\\CRUD_Razor_2_1\\obj\\",
+      "outputPath": "C:\\Users\\kimy6\\source\\repos\\CRUD_Razor_2_1\\CRUD_Razor_2_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
