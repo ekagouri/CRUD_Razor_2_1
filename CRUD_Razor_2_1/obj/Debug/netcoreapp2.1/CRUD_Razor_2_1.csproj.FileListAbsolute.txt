@@ -63,3 +63,4 @@ C:\Users\kimy6\Documents\Development\CRUD_Razor_2_1\CRUD_Razor_2_1\obj\Debug\net
 C:\Users\kimy6\Documents\Development\CRUD_Razor_2_1\CRUD_Razor_2_1\obj\Debug\netcoreapp2.1\CRUD_Razor_2_1.csproj.CopyComplete
 C:\Users\kimy6\source\repos\CRUD_Razor_2_1\CRUD_Razor_2_1\obj\Debug\netcoreapp2.1\Razor\Pages\BookList\Index.g.cshtml.cs
 C:\Users\kimy6\source\repos\CRUD_Razor_2_1\CRUD_Razor_2_1\obj\Debug\netcoreapp2.1\Razor\Pages\BookList\Create.g.cshtml.cs
+C:\Users\kimy6\source\repos\CRUD_Razor_2_1\CRUD_Razor_2_1\obj\Debug\netcoreapp2.1\CRUD_Razor_2_1.csprojAssemblyReference.cache
